@@ -1,0 +1,16 @@
+# intellij idea
+.idea
+
+# npm or yarn
+node_modules
+package-lock.json
+yarn.lock
+
+# output
+dist
+
+# package
+*.zip
+
+#custom
+zinstall.md
